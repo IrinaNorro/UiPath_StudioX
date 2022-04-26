@@ -19,6 +19,7 @@ https://youtu.be/Ue9ooCcmNQc
 In this project we create company's monthly reports and save it to drafts in email as PDF attachment. 
 
 ### Watch it on Youtube
+https://youtu.be/guSxrYGgipc
 
 ### Flowchart
 ![X_GenerateFilesSendEmail_Flowchart](https://user-images.githubusercontent.com/80334153/165253901-ca2d2002-d0f7-4149-b83d-108ca5fe9968.jpg)
