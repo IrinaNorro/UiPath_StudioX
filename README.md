@@ -7,7 +7,7 @@ Before pushing Run button, you need to have:
 - Chrome Exctension installed in UiPath
 - Gmail Account
 
-### StudioX ExtractDataFromWebToExcel
+# StudioX ExtractDataFromWebToExcel
 In this project we want to find Business Id for each company listed in Excel sheet and write the ID to the same Excel document. 
 In order to do so, we search data from web page using search words in Excel sheet and extract data to Excel sheet. 
 
@@ -15,7 +15,7 @@ In order to do so, we search data from web page using search words in Excel shee
 https://youtu.be/Ue9ooCcmNQc
 
 
-### StudioX GenerateFilesSendEmail
+# StudioX GenerateFilesSendEmail
 In this project we create company's monthly reports and save it to drafts in email as PDF attachment. 
 
 ### Watch it on Youtube
@@ -24,7 +24,7 @@ https://youtu.be/guSxrYGgipc
 ### Flowchart
 ![X_GenerateFilesSendEmail_Flowchart](https://user-images.githubusercontent.com/80334153/165253901-ca2d2002-d0f7-4149-b83d-108ca5fe9968.jpg)
 
-### StudioX EmailToPivot
+# StudioX EmailToPivot
 In this project we loop through emails in Outlook Inbox, search for a spesific Excel attachment from spesific sender, save it to local directory
 and create Excel Pivot Table using attachment. 
 
